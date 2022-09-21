@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BankTest/1.0.0": {
+        "dependencies": {
+          "BankAccountPrj": "1.0.0"
+        },
+        "runtime": {
+          "BankTest.dll": {}
+        }
+      },
+      "BankAccountPrj/1.0.0": {
+        "runtime": {
+          "BankAccountPrj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankAccountPrj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
